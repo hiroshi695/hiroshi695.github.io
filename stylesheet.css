@@ -1,0 +1,97 @@
+.title {
+  color: #0000cd;
+}
+
+.header-logo{
+font-size: 30px;
+padding:13px 30px;
+float: left;
+background-color:#0000ff;
+color:#ffffff;
+}
+.header-list li{
+  list-style: none;
+  float:left;
+  padding:20px 30px;
+  background-color:#0000ff;
+}
+
+.tekisuto {
+  padding-top:100px;
+  white-space:pre ;
+}
+.sa{
+  font-size: 20px;
+  color:#ffffff;
+}
+.sb{
+  font-size: 20px;
+  color:#ffffff;
+}
+.sc{
+  font-size: 20px;
+  color:#ffffff;
+}
+
+h3 {
+  border-bottom:5px solid red;
+  font-size:28px;
+  padding-bottom:15px;
+  margin-bottom:50px;
+}
+.contents{
+  margin-top: 50px;
+}
+.contents-item{
+  float: left;
+  margin-right:40px;
+}
+
+.contact-form{
+  padding-top:100px;
+}
+
+.section-title{
+  padding:40px;
+}
+
+input,textarea{
+  width:500px;
+  margin-top:10px;
+  margin-bottom:30px;
+  padding:20px;
+  font-size:18px;
+  border:5px solid #dee7ec;
+}
+
+.contact-submit{
+  background-color: #00ffff;
+  color:#000000;
+}
+
+.footer-logo{
+  font-size:30px;
+  padding:13px;
+  float:left;
+  background-color: #8a2be2;
+  color:#ffffff;
+}
+.footer-list li{
+  list-style: none;
+  float:left;
+  padding:20px 30px;
+  font-size :20px;
+  background-color: #8a2be2;
+}
+
+.ya{
+  color:#ffffff;
+}
+
+.yb{
+  color:#ffffff;
+}
+
+.yc{
+  color:#ffffff;
+}
